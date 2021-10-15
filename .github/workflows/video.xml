@@ -1,0 +1,33 @@
+<VAST version="2.0">
+<Ad id="preroll-1">
+<InLine>
+<AdSystem>2.0</AdSystem>
+<AdTitle>5748406</AdTitle>
+<Creatives>
+<Creative>
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents/>
+<VideoClicks>
+<ClickThrough id="scanscout">
+<![CDATA[ https://streamzone.click ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile height="396" width="600" bitrate="496" type="video/mp4" delivery="progressive">
+<![CDATA[ https://streamzone.click/storage/video.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+<Creative>
+<CompanionAds>
+<Companion height="250" width="300" id="555750">
+<HTMLResource> </HTMLResource>
+</Companion>
+</CompanionAds>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
